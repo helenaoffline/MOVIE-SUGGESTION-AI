@@ -1,4 +1,5 @@
-![image](https://github.com/user-attachments/assets/73415a18-8d37-4e85-ad05-39b228264cc8)![image](https://github.com/user-attachments/assets/73415a18-8d37-4e85-ad05-39b228264cc8)<img width="1137" alt="image" src="https://github.com/user-attachments/assets/0096b5b8-e8ea-460c-995a-bf1c002d287d" /><img width="1137" alt="image" src="https://github.com/user-attachments/assets/0096b5b8-e8ea-460c-995a-bf1c002d287d" /># 🎬 IA de Sugestão de Filmes com Streamlit + Gemini
+<img width="1137" alt="image" src="https://github.com/user-attachments/assets/0096b5b8-e8ea-460c-995a-bf1c002d287d" />
+# 🎬 IA de Sugestão de Filmes com Streamlit + Gemini
 
 Este é um aplicativo web simples que utiliza o modelo **Gemini** (da Google) para gerar sugestões de filmes com base nas preferências do usuário. A interface foi construída com **Streamlit**, permitindo uma experiência interativa e direta no navegador.
 
